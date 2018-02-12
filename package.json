@@ -1,0 +1,20 @@
+{
+  "name": "nav_exercise",
+  "version": "1.0.0",
+  "description": "huge nav exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "keywords": [
+    "nav",
+    "bar",
+    "responsive"
+  ],
+  "author": "Juan Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
