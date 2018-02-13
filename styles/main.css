@@ -393,12 +393,12 @@ nav {
 	  	text-align: justify;
     }
 
-    input:checked ~ footer {
-        bottom: 4px;
+    input:checked ~ nav > footer {
         display: block;
-        font: 12px/16px Helvetica Neue Regular;
-        left: 25px;
+        bottom: 24px;
+        left: 24px;
         position: absolute;
-        z-index: 3;
+        color: #000;
+        z-index: 2;
     }
 }
